@@ -1,2 +1,2 @@
-#Welcome to Quick Bytes
+Welcome to Quick Bytes
 
